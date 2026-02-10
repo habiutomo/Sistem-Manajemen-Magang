@@ -33,7 +33,7 @@ Sistem menyediakan fitur-fitur berikut:
 
 ### 📢 Pengumuman & Dokumen
 - Pengumuman sistem untuk pengguna  
-- Upload/kelola **dokumen magang** seperti surat izin, CV, sertifikat, dll :contentReference[oaicite:1]{index=1}
+- Upload/kelola **dokumen magang** seperti surat izin, CV, sertifikat, dll
 
 ---
 
