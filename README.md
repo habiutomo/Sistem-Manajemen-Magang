@@ -113,3 +113,6 @@ Lisensi dari repository ini mengikuti lisensi original dari fork asalnya. Pastik
 
 
 
+💬 Tentang Sistem Manajemen Magang
+
+Sistem manajemen magang ini membantu mengotomatisasi seluruh proses administrasi magang, sehingga efisiensi, akurasi data, dan transparansi proses menjadi lebih baik dibandingkan sistem manual tradisional seperti spreadsheet atau email. Banyak institusi pendidikan dan perusahaan makin mengadopsi solusi serupa berbasis web untuk mempermudah rekrutmen, penilaian, dan pelaporan magang peserta
