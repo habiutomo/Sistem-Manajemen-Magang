@@ -2,7 +2,7 @@
 
 Sistem Manajemen Magang adalah aplikasi berbasis web untuk **mengelola proses magang secara terintegrasi** — mulai dari pendaftaran, penempatan, monitoring kegiatan, evaluasi, hingga laporan akhir peserta magang. Sistem ini dirancang untuk mendukung kebutuhan **admin, mahasiswa, mentor, dan supervisor** dalam aktivitas magang.
 
-📌 Sistem ini merupakan *fork* dari project sebelumnya dengan struktur backend dan frontend terpisah, lengkap dengan skema database untuk kebutuhan operasional magang. :contentReference[oaicite:0]{index=0}
+📌 Sistem ini merupakan *fork* dari project sebelumnya dengan struktur backend dan frontend terpisah, lengkap dengan skema database untuk kebutuhan operasional magang. 
 
 ---
 
