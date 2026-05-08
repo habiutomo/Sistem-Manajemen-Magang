@@ -1,0 +1,23 @@
+{
+  "name": "astrocode-backend",
+  "version": "1.0.0",
+  "description": "Autonomous Agentic Workflow powered by AMD ROCm and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^5.0.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": "Habi Utomo",
+  "license": "MIT"
+}
